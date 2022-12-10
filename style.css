@@ -1,0 +1,1039 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    height: 80px;
+    margin-top: 22px;
+}
+
+.line {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+}
+
+
+.nav img {
+    margin-top: 14px;
+}
+
+.nav-p a {
+    color: #000;
+}
+
+.banner {
+    background-image: url('img/Group 297.jpg');
+    height: 866px;
+    margin-bottom: 160px;
+
+}
+
+.banner h1 {
+    margin-top: 0;
+    padding-left: 111px;
+    padding-top: 107px;
+    width: 842px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 100px;
+    line-height: 141px;
+    color: #FFFFFF;
+}
+
+.header-img {
+    width: 1450px;
+    margin-left: 25px;
+    margin-bottom: 160px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.working {
+    width: 1120px;
+    height: 614px;
+
+}
+
+.customer-container {
+    background-image: url('img/Mask\ group.png');
+    background-color: #F9F9F9;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.customer-title p {
+    width: 187px;
+    height: 18px;
+    padding-left: 100px;
+    padding-top: 150px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    color: #EC2232;
+}
+
+.customer-title h1 {
+    width: 904px;
+    height: 170px;
+    margin-top: 0;
+    margin-bottom: 138px;
+    padding-bottom: 238px;
+    margin-left: 100px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 85px;
+    color: #222222;
+}
+
+.card-container {
+    display: flex;
+    position: absolute;
+    left: 100px;
+    top: 2200px;
+
+
+}
+
+.card {
+    margin: 10px;
+    background-color: #fff;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    width: 300px;
+}
+
+.card-header img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.card-body {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.card-body h4 {
+    width: 254px;
+    height: 86px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 43px;
+    color: #222222;
+}
+
+
+
+.team {
+    width: 155px;
+    height: 18px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: -0.02em;
+    color: #EC2232;
+
+}
+
+.experts {
+    margin-top: 23px;
+    width: 639px;
+    height: 170px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 85px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+.experts-theory {
+    position: absolute;
+    width: 428px;
+    height: 137px;
+    left: 800px;
+    top: 1310px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 29px;
+    color: #000000;
+    text-align: justify;
+}
+
+.data {
+    width: 900px;
+    height: 85px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.experts-value {
+    width: 121px;
+    height: 85px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 110px;
+    line-height: 85px;
+    color: #222222;
+    margin-bottom: 16px;
+    margin-left: 50px;
+
+}
+
+.plus {
+    font-weight: 300;
+    font-size: 110px;
+    color: #EC2232;
+}
+
+.experts-info {
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.industry-container {
+    margin-top: 604px;
+    margin-bottom: 216px;
+
+}
+
+.industry-img1 {
+    margin-left: 274px;
+    padding-top: 6px;
+    position: absolute;
+    width: 743px;
+    height: 85px;
+    left: px;
+    top: 2992px;
+    font-weight: 600;
+    font-size: 90px;
+    line-height: 85px;
+    background: white;
+    color: #222222;
+}
+
+.industry-img2 {
+    margin-left: 274px;
+}
+
+.industry-img3 {
+    margin-left: 274px;
+    padding-top: 6px;
+    position: absolute;
+    width: 743px;
+    height: 85px;
+    left: px;
+    top: 3035px;
+    font-weight: 600;
+    font-size: 90px;
+    line-height: 85px;
+    background: white;
+    color: #222222;
+}
+
+.plus-img {
+    margin-top: 100px;
+    margin-left: 254px;
+}
+
+.benchmark {
+    margin-top: 0;
+    margin-left: 299px;
+    width: 525px;
+    height: 5px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 5px;
+    color: #9198A0;
+}
+
+.cement {
+    display: flex;
+    justify-content: center;
+}
+
+.count {
+    margin-right: 25px;
+    padding-top: 12px;
+    width: 28px;
+    height: 5px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 5px;
+    color: #F0E3D8
+}
+
+.industry-info {
+    margin-left: 230px;
+    margin-right: 230px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.cement-img {
+    margin-top: 35px;
+    margin-right: 34px;
+}
+
+.machine-container {
+
+    background: #000;
+    margin-top: 60px;
+    background-image: url('img/bg2.png');
+    width: 1500px;
+    height: 1020px;
+    margin-top: 65px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.customer {
+    padding-top: 290px;
+    padding-left: 288px;
+    margin-bottom: 33px;
+    width: 187px;
+    height: 18px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.machine-title {
+    padding-left: 288px;
+    width: 525px;
+    height: 170px;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 85px;
+    color: #FFFFFF;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.machine-info {
+    width: 594px;
+    height: 51px;
+    padding-left: 288px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.machine-data {
+    display: flex;
+    justify-content: space-between;
+    width: 742px;
+    padding-left: 288px;
+    margin-top: 91px;
+}
+
+.info {
+    height: 52px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42.1214px;
+    line-height: 51px;
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
+
+.info-para {
+    width: 187.9px;
+    height: 21.65px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23.1975px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-top: 14px;
+}
+
+.brnad-container {
+    height: 275px;
+    padding-left: 200px;
+    text-align: center;
+}
+
+.brand-title {
+    margin-top: 205px;
+    margin-bottom: 88px;
+    height: 18px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 18px;
+    color: #E82232;
+    text-align: center;
+
+}
+
+.brand-img1 {
+    width: 1120px;
+    display: flex;
+    margin-bottom: 92px;
+}
+
+.brand-img2 {
+    width: 1120px;
+    display: flex;
+
+}
+
+.img-margin {
+    margin-right: 90px;
+}
+
+.form-container {
+    display: flex;
+    margin-top: 165px;
+}
+
+.form-title {
+    height: 60px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 65px;
+    color: #FFFFFF;
+    text-align: center;
+
+}
+
+.form {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 110px;
+    padding-right: 110px;
+    background-color: #0E3466;
+}
+
+.input-feild {
+    width: 450px;
+    height: 68px;
+    border-radius: 7.75258px;
+}
+
+.input-feild4 {
+    width: 450px;
+    height: 135px;
+    border-radius: 7.75258px;
+}
+
+.form-gap {
+    margin-bottom: 24px;
+}
+
+.btn {
+    width: 195px;
+    height: 61px;
+    left: 204px;
+    top: 7028px;
+    color: white;
+    background: #EC2232;
+    border-radius: 40.2445px;
+}
+
+.address {
+    position: absolute;
+    height: 700px;
+    left: 640px;
+    top: 5640px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background: #FFFFFF;
+}
+
+.address h1 {
+    width: 136px;
+    height: 18px;
+    font-family: 'AvertaStd-Regular';
+    font-size: 18px;
+    line-height: 18px;
+    color: #192437;
+}
+
+.p1 {
+    width: 250px;
+    height: 103px;
+    font-family: 'AvertaStd-Light';
+    font-size: 20px;
+    line-height: 22px;
+    color: #828282;
+}
+
+.p2 {
+    width: 153px;
+    height: 22px;
+    font-family: 'AvertaStd-Light';
+    font-size: 21px;
+    line-height: 22px;
+    color: #828282
+}
+
+.p3 {
+    width: 262px;
+    height: 205px;
+    font-family: 'AvertaStd-Light';
+    font-size: 20px;
+    line-height: 25px;
+    color: #828282;
+
+}
+
+.hr {
+    width: 230px;
+    height: 1px;
+    margin-bottom: 42px;
+    margin-top: 42px;
+    background: #C4C4C4;
+}
+
+.map {
+    position: absolute;
+    height: 700px;
+    left: 900px;
+    top: 5640px;
+    padding-left: 42px;
+    padding-right: 43px;
+}
+
+.blur {
+    width: 960px;
+    height: 991px;
+    background: #F8F8F8;
+}
+
+.fotter-containe {
+    background-color: #181818;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-industry {
+    display: flex;
+}
+
+.footer-h1 {
+    /* width: 202px;
+    height: 210px; */
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 70px;
+    color: #FFFFFF;
+}
+
+.footer-ul ul li {
+    /* width: 222px;
+    height: 144px; */
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.footer-right p {
+    /* width: 222px;
+    height: 144px; */
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+
+/* *----------
+ Tab view 
+ ----------*/
+@media only screen and (min-width: 360px) and (max-width: 740px) {
+
+    .nav {
+        display: flex;
+        justify-content: space-between;
+        justify-items: center;
+        height: 80px;
+        margin-top: 22px;
+        width: 740px;
+    }
+
+    .header-img {
+        width: 740px;
+        margin-left: 25px;
+        margin-bottom: 160px;
+    }
+
+    .banner {
+        background-image: url('img/Group 297.jpg');
+        height: 866px;
+        margin-bottom: 160px;
+        width: 749px;
+
+    }
+
+    .banner h1 {
+        margin-top: 0;
+        padding-left: 10px;
+        padding-top: 107px;
+        width: 600px;
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 100px;
+        line-height: 141px;
+        color: #FFFFFF;
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+    }
+
+    .working {
+        width: 740px;
+        height: 614px;
+
+    }
+
+
+    .team {
+        width: 155px;
+        height: 18px;
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 18px;
+        letter-spacing: -0.02em;
+        color: #EC2232;
+
+    }
+
+    .experts {
+        margin-top: 23px;
+        width: 639px;
+        height: 170px;
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 70px;
+        line-height: 85px;
+        letter-spacing: -0.02em;
+        color: #222222;
+    }
+
+    .experts-theory {
+        position: absolute;
+        width: 0px;
+        height: 137px;
+        left: 60px;
+        top: 1360px;
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 29px;
+        color: #000000;
+        text-align: justify;
+    }
+
+    .customer-container {
+        background-image: url('img/Mask\ group.png');
+        background-color: #F9F9F9;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 740px;
+        height: 800px
+    }
+
+    .customer-title p {
+        width: 740px;
+        height: 18px;
+        padding-left: 30px;
+        padding-top: 150px;
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 18px;
+        color: #EC2232;
+    }
+
+    .machine-info {
+        width: 500px;
+        height: 51px;
+        padding-left: 28px;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 29px;
+        color: #FFFFFF;
+    }
+
+
+    .cement {
+        display: flex;
+        justify-content: center;
+    }
+
+    .count {
+        margin-right: 20px;
+        margin-left: 20px;
+        padding-top: 12px;
+        width: 28px;
+        height: 5px;
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 25px;
+        line-height: 5px;
+        color: #F0E3D8
+    }
+
+    .card-container {
+
+        display: flex;
+        position: absolute;
+        left: 50px;
+        top: 1600px;
+
+
+    }
+
+    .card-4 {
+        display: none;
+    }
+
+
+    .machine-container {
+        background: #000;
+        margin-top: 60px;
+        background-image: url('img/bg2.png');
+        width: 740px;
+        height: 1020px;
+        margin-top: 65px;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .machine-title {
+        padding-left: 20px;
+        width: 525px;
+        height: 170px;
+        font-weight: 500;
+        font-size: 70px;
+        line-height: 85px;
+        color: #FFFFFF;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    .address {
+        position: absolute;
+        height: 700px;
+        left: 0px;
+        top: 6250px;
+        padding-left: 30px;
+        padding-right: 30px;
+        background: #FFFFFF;
+    }
+
+    .map {
+        position: absolute;
+        height: 700px;
+        left: 250px;
+        top: 6250px;
+        padding-left: 42px;
+        padding-right: 43px;
+    }
+
+    .map img {
+        width: 450px;
+    }
+
+    .industry-container {
+        margin-top: 604px;
+        margin-bottom: 216px;
+
+    }
+
+
+    .industry-info {
+        margin-left: 30px;
+        margin-right: 30px;
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+    .industry-img1 {
+        margin-left: 40px;
+        padding-top: 6px;
+        position: absolute;
+        width: 600px;
+        height: 85px;
+        left: 0px;
+        top: 2315px;
+        font-weight: 600;
+        font-size: 90px;
+        line-height: 85px;
+        background: white;
+        color: #222222;
+    }
+
+    .industry-img2 {
+        margin-left: 40px;
+        padding-top: 6px;
+        position: absolute;
+        width: 600px;
+        height: 85px;
+        left: 0px;
+        top: 2360px;
+        font-weight: 600;
+        font-size: 90px;
+        line-height: 85px;
+        background: white;
+        color: #222222;
+    }
+
+    .industry-img1 img {
+        width: 600px;
+    }
+
+    .industry-img2 {
+        margin-left: 40px;
+        width: 600px;
+    }
+
+    .industry-img2 img {
+        width: 600px;
+    }
+
+    .industry-img3 {
+        margin-left: 40px;
+        padding-top: 6px;
+        position: absolute;
+        width: 600px;
+        height: 85px;
+        left: 0px;
+        top: 2405px;
+        font-weight: 600;
+        font-size: 90px;
+        line-height: 85px;
+        background: white;
+        color: #222222;
+    }
+
+    .industry-img3 img {
+        width: 600px;
+    }
+
+    .brnad-container {
+        height: 275px;
+        padding-left: 20px;
+        /* text-align: center; */
+    }
+
+    .brand-title {
+        width: 720px;
+        margin-top: 205px;
+        margin-bottom: 88px;
+        height: 18px;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 18px;
+        color: #E82232;
+        /* text-align: center; */
+
+    }
+
+    .img-margin {
+        margin-right: 40px;
+    }
+
+    .img-margin-9 {
+        margin-right: 30px;
+    }
+
+    .img-margin-9 img {
+        width: 20px;
+        height: 10px;
+    }
+
+    .img-margin img {
+        width: 80px;
+    }
+
+    .brand-img1 {
+        width: 740px;
+        display: flex;
+        margin-bottom: 40px;
+    }
+
+    .brand-img2 {
+        width: 740px;
+        display: flex;
+
+    }
+
+    .data {
+        width: 740px;
+        height: 85px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .customer {
+        padding-top: 290px;
+        padding-left: 28px;
+        margin-bottom: 33px;
+        width: 187px;
+        height: 18px;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 18px;
+        color: #FFFFFF;
+    }
+
+    .customer-title h1 {
+        width: 740px;
+        height: 170px;
+        margin-top: 0;
+        margin-bottom: 0px;
+        padding-bottom: 8px;
+        margin-left: 30px;
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 70px;
+        color: #222222;
+    }
+
+
+
+    .machine-data {
+        display: flex;
+        justify-content: space-around;
+        width: 742px;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 20px;
+    }
+
+    .benchmark {
+        margin-top: 0;
+        margin-left: 90px;
+        width: 525px;
+        height: 5px;
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 25px;
+        line-height: 5px;
+        color: #9198A0;
+    }
+
+
+
+    .plus-img {
+        margin-top: 100px;
+        margin-left: 54px;
+    }
+
+    .form {
+        width: 740px;
+        padding-top: 120px;
+        padding-bottom: 120px;
+        padding-left: 140px;
+        padding-right: 140px;
+        background-color: #0E3466;
+    }
+
+    .fotter-containe {
+        background-color: #181818;
+        width: 740px;
+        margin-top: 700px;
+    }
+
+    .footer {
+        text-align: center;
+        padding-top: 40px;
+        display: block;
+        justify-content: space-around;
+    }
+
+    .footer-industry {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer-h1 {
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 35px;
+        line-height: 70px;
+        color: #FFFFFF;
+    }
+
+    .footer-ul ul li {
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 22px;
+        line-height: 48px;
+        color: #FFFFFF;
+    }
+
+    .footer-right p {
+
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 22px;
+        line-height: 48px;
+        color: #FFFFFF;
+    }
+
+    .container {
+        display: none;
+        justify-content: center;
+        justify-items: center;
+    }
+}

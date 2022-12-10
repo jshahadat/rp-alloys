@@ -579,7 +579,7 @@
 /* *----------
  Tab view 
  ----------*/
-@media only screen and (min-width: 360px) and (max-width: 740px) {
+@media only screen and (min-width: 360px) and (max-width: 749px) {
 
     .nav {
         display: flex;
